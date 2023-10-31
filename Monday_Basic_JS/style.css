@@ -1,0 +1,17 @@
+.container {
+    width: 500px;
+    margin: 10px auto;
+    background-color: rgb(215, 221, 227);
+}
+
+h1 {
+    text-align: center;
+}
+
+#btn {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+
