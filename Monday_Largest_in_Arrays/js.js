@@ -1,4 +1,4 @@
-// finding the largest of arrays
+// finding the largest of subarrays
 
 // use for loop
 // access nested array
